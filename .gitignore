@@ -1,0 +1,6 @@
+.ipynb_checkpoints/*
+__pycache__/*
+model/customLayers/__pycache__/*
+model/__pycache__/*
+model/.ipynb_checkpoints/*
+bgu/.ipynb_checkpoints/*
